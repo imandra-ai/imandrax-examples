@@ -1,0 +1,5 @@
+# Treat IML files as OCaml for syntax highlighting
+*.iml linguist-language=OCaml
+
+# Inclde in language statistics
+*.iml linguist-detectable=true
